@@ -1,5 +1,5 @@
 # 4x Super-resolution by CNN
-Investigation in 4x Super-resolution by Deep Convolutional Neural Networks. The network designs are my own and they work in the RGB color space.
+Investigation in 4x Super-resolution by Deep Convolutional Neural Networks. The network designs are my own and they work in the RGB color space. The concepts are taken from the papers in the "Papers" directory.
 
 Investigations regarding 3 major factors are carried out.
 * Incremental upsampling
@@ -7,3 +7,6 @@ Investigations regarding 3 major factors are carried out.
 * Sup-pixel convolution
 
 For results and more info see the Powerpoint Presentation.
+
+![](https://i.imgur.com/UnypZ14.png)
+![](https://i.imgur.com/c20IXsM.png)
